@@ -14,6 +14,7 @@ A dark, minimal aesthetic inspired by the anime’s tone
 The goal of this project is to combine frontend development and visual storytelling into a single-page experience.
 
 # live Demo
+https://collins-cloud.github.io/Johan-liebert-profile-/
 
 # Built with
 HTML5 – Semantic structure
